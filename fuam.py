@@ -1,1 +1,1 @@
-name : fuma
+:qname : fuma
